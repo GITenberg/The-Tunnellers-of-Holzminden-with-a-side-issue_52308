@@ -1,0 +1,25 @@
+_repo: The-Tunnellers-of-Holzminden-with-a-side-issue_52308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Durnford, H. G. (Hugh George)
+    alias: Durnford, Hugh George
+    gutenberg_agent_id: '46776'
+    url: http://www.gutenberg.org/2009/agents/46776
+description: ''
+gutenberg_issued: '2016-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52308'
+  lccn: '21000597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoner-of-war escapes'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, German'
+- GITenberg
+title: The Tunnellers of Holzminden (with a side-issue)
+url: http://www.gutenberg.org/ebooks/52308
